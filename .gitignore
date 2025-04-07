@@ -1,0 +1,3 @@
+.venv/ # if your virtual‑env isn’t already ignored
+Databases/HDF5/HDF5.py
+Databases/HDF5/QueryDatabase.py
